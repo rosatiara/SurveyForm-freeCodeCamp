@@ -31,6 +31,7 @@ body {
   label {
     display: block;
     margin: 1em auto;
+    padding-right: 0.5em;
   }
   
   input, select {
